@@ -1,4 +1,4 @@
-//FIRST CREAT A FILE LIKE "NAME.h" Now you can create a header file for sorting
+//FIRST YOU NEED TO CREATE A FILE AND NAME IT BY"NAME.H" AND THEN WRITE YOUR FUNCTION....
 void bubbleSort(int arr[], int size){
     int temp;
     for(int i=0;i<size-1;i++){
